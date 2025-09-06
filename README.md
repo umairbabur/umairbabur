@@ -22,6 +22,9 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
+[![Business Intelligence](https://img.shields.io/badge/Business%20Intelligence-FF9800?logo=powerbi&logoColor=white)](https://powerbi.microsoft.com/)
+[![Data Analytics](https://img.shields.io/badge/Data%20Analytics-2E7D32?logo=googleanalytics&logoColor=white)](https://analytics.google.com/)
+[![Data Science](https://img.shields.io/badge/Data%20Science-1976D2?logo=databricks&logoColor=white)](https://www.databricks.com/discover/data-science)
 
 ### 🔹 AI & Machine Learning
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?logo=google&logoColor=white)
