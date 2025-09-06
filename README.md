@@ -36,6 +36,9 @@
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=white)
 ![REST APIs](https://img.shields.io/badge/REST%20APIs-02569B?logo=fastapi&logoColor=white)
+[![LangGraph](https://img.shields.io/badge/LangGraph-4A90E2?logo=langchain&logoColor=white)](https://github.com/langchain-ai/langgraph)
+[![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?logo=apacheairflow&logoColor=white)](https://airflow.apache.org/)
+[![Apache Superset](https://img.shields.io/badge/Apache%20Superset-20A5DA?logo=apache&logoColor=white)](https://superset.apache.org/)
 
 ---
 
